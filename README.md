@@ -41,7 +41,7 @@ Analyze FitBit smart device usage data to identify trends in how consumers engag
 - **Bellabeat Marketing Analytics Team**  primary audience for findings
 
 ### Product Focus
-This analysis focuses on the **Bellabeat Leaf** — the classic wellness tracker worn as a bracelet, necklace, or clip — which tracks activity, sleep, and stress via the Bellabeat app. The Leaf is the product most directly informed by the behavioral patterns found in this dataset.
+This analysis focuses on the **Bellabeat Leaf**  the classic wellness tracker worn as a bracelet, necklace, or clip — which tracks activity, sleep, and stress via the Bellabeat app. The Leaf is the product most directly informed by the behavioral patterns found in this dataset.
 
 ---
 
