@@ -20,7 +20,7 @@ This case study was completed as the capstone project for the **Google Data Anal
 
 The goal is to analyze how consumers use non Bellabeat smart devices, identify behavioral trends, and translate those findings into actionable marketing recommendations for one of Bellabeat's products.
 
-**The six-phase data analysis process used:**
+**The six phase data analysis process used:**
 `Ask` → `Prepare` → `Process` → `Analyze` → `Share` → `Act`
 
 ---
@@ -36,8 +36,8 @@ Analyze FitBit smart device usage data to identify trends in how consumers engag
 3. How could these trends help influence Bellabeat's marketing strategy?
 
 ### Key Stakeholders
-- **Urška Sršen** — Cofounder & Chief Creative Officer, requested this analysis
-- **Sando Mur** — Cofounder, key member of the executive team
+- **Urška Sršen**  Cofounder & Chief Creative Officer, requested this analysis
+- **Sando Mur**  Cofounder, key member of the executive team
 - **Bellabeat Marketing Analytics Team**  primary audience for findings
 
 ### Product Focus
