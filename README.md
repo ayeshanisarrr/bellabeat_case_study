@@ -1,5 +1,5 @@
 # Bellabeat Smart Device Usage Analysis
-### Google Data Analytics Capstone (Case Study 2)
+### Google Data Analytics Capstone (Case Study)
 
 ---
 
