@@ -265,7 +265,7 @@ The 31 day upward trend in average steps is a ready-made acquisition narrative: 
 
 - **Bellabeat's own user data**  to validate whether FitBit trends hold for Bellabeat's actual female customer base
 - **Demographic data** (age, location, health goals) to refine segmentation beyond activity tier alone
-- **More recent dataset** — 2016 predates major shifts in wearable adoption and post pandemic health awareness
+- **More recent dataset**  2016 predates major shifts in wearable adoption and post pandemic health awareness
 - **Heart rate and stress data** available in the FitBit dataset but not analyzed here; directly relevant to Bellabeat's stress tracking value proposition
 
 ---
