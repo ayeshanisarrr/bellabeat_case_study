@@ -284,8 +284,8 @@ The 31 day upward trend in average steps is a ready-made acquisition narrative: 
 
 ## About
 
-**Analyst:** [Ayesha Nisar]  
+**Analyst:** Ayesha Nisar
 **Certificate:** Google Data Analytics Professional Certificate  
-**Case Study:** Case Study 2 — How Can a Wellness Technology Company Play It Smart?  
+**Case Study:** Case Study 2  - How Can a Wellness Technology Company Play It Smart?  
 **Tool:** Microsoft Excel  
-**Dataset:** [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) — CC0 Public Domain via Kaggle
+**Dataset:** [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)  CC0 Public Domain via Kaggle
