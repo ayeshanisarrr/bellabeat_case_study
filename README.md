@@ -129,7 +129,7 @@ The dataset includes minute level and daily level records for:
 
 ---
 
-### Finding 1 — Users Are Sedentary for 80% of Their Day
+### Finding 1 - Users Are Sedentary for 80% of Their Day
 
 The most striking finding in the data: users spend an average of **942 minutes per day — roughly 15.7 hours in a sedentary state.** That is 80% of their tracked day with no meaningful physical movement.
 
@@ -137,7 +137,7 @@ Only 20% of the day is spent in any form of active minutes. This is not driven b
 
 ---
 
-### Finding 2 — Average Daily Steps Fall Short of the 10,000 Step Benchmark
+### Finding 2 - Average Daily Steps Fall Short of the 10,000 Step Benchmark
 
 The dataset average of **7,555 steps/day falls approximately 25% below** the 10,000-step daily goal that most fitness devices and health guidelines reference. While 10,000 steps is not a strict medical standard, it is the benchmark the target user base recognizes and compares themselves to.
 
@@ -145,7 +145,7 @@ The step distribution is also highly variable  some users consistently exceeded 
 
 ---
 
-### Finding 3 — The User Base Is Nearly Evenly Split Across Three Activity Tiers
+### Finding 3 - The User Base Is Nearly Evenly Split Across Three Activity Tiers
 
 When user sessions are categorized by daily physical engagement level:
 
@@ -159,7 +159,7 @@ The near-equal three way split is a critical segmentation insight. Bellabeat can
 
 ---
 
-### Finding 4 — Steps Trended Upward Over 31 Days, With Consistent Weekend Drops
+### Finding 4 - Steps Trended Upward Over 31 Days, With Consistent Weekend Drops
 
 Tracking average daily steps from March 12 to April 12:
 
@@ -173,7 +173,7 @@ Two conclusions come from this pattern:
 
 ---
 
-### Finding 5 — Steps and Sleep Show a Weak Negative Relationship; Sleep Tracking Is Underused
+### Finding 5 - Steps and Sleep Show a Weak Negative Relationship; Sleep Tracking Is Underused
 
 The scatter plot of Total Daily Steps vs. Sleep Hours reveals a slight downward trend: users who walk more tend to sleep marginally fewer hours. The relationship is **weak**  data is widely scattered and no strong predictive pattern exists.
 
@@ -215,7 +215,7 @@ The scatter plot shows a weak negative correlation between steps and sleep hours
 
 **Recommendation 1: Make Movement Reminders a Hero Feature of the Leaf**
 
-With 80% of the day spent sedentary, the single highest-impact feature Bellabeat can market is a **haptic movement reminder**  a gentle vibration after 60–90 minutes of inactivity. The Leaf is already on the body. It is positioned to prompt movement without requiring users to check their phone.
+With 80% of the day spent sedentary, the single highest-impact feature Bellabeat can market is a **haptic movement reminder**  a gentle vibration after 60-90 minutes of inactivity. The Leaf is already on the body. It is positioned to prompt movement without requiring users to check their phone.
 
 Marketing angle: *"The Leaf doesn't just track your day   it reminds you to live it."*
 This directly addresses the most significant behavioral gap in the data, with zero friction for the user.
@@ -228,7 +228,7 @@ The near-equal split across Low, Moderate, and Active users means Bellabeat need
 
 - **Low activity users:** Remove performance pressure. Lead with accessibility and small wins  *"Start somewhere. The Leaf starts with you."*
 - **Moderate users:** Emphasize consistency and progress  *"You're building a habit. Keep going."*
-- **Active users:** Lead with data depth and achievement tracking — *"You know what you're doing. Now track every detail of it."*
+- **Active users:** Lead with data depth and achievement tracking  *"You know what you're doing. Now track every detail of it."*
 
 One message for all three groups will connect with only one of them.
 
@@ -242,20 +242,20 @@ Marketing positioning: the weekend is not a rest from wellness. It is the best t
 
 ---
 
-**Recommendation 4: Actively Promote Sleep Tracking — It Is Being Ignored**
+**Recommendation 4: Actively Promote Sleep Tracking - It Is Being Ignored**
 
 The high rate of missing sleep data is a product engagement problem. Sleep tracking is a core Bellabeat differentiator, and it is the most underused feature in this dataset. Bellabeat should:
-- Add clear in-app onboarding that explains the value of sleep data
+- Add clear in app onboarding that explains the value of sleep data
 - Show users a personal sleep activity connection in their weekly summary
 - Run campaigns framing sleep as the foundation of performance, not an optional add-on
 
-Users who engage with sleep tracking tend to develop deeper platform engagement overall — they are worth acquiring and retaining specifically.
+Users who engage with sleep tracking tend to develop deeper platform engagement overall they are worth acquiring and retaining specifically.
 
 ---
 
 **Recommendation 5: Use Habit Formation as a Marketing Story**
 
-The 31-day upward trend in average steps is a ready-made acquisition narrative: **wearing the Leaf makes you more active.** Bellabeat can use this as proof in campaigns  showing prospective users what a 30-day journey looks like  and as a retention tool by surfacing personal progress milestones inside the app.
+The 31 day upward trend in average steps is a ready-made acquisition narrative: **wearing the Leaf makes you more active.** Bellabeat can use this as proof in campaigns  showing prospective users what a 30-day journey looks like  and as a retention tool by surfacing personal progress milestones inside the app.
 
 *"See what 30 days with the Leaf did for users like you."* This is not a claim  it is what the data shows.
 
@@ -263,10 +263,10 @@ The 31-day upward trend in average steps is a ready-made acquisition narrative: 
 
 ### Additional Data That Would Strengthen This Analysis
 
-- **Bellabeat's own user data** — to validate whether FitBit trends hold for Bellabeat's actual female customer base
+- **Bellabeat's own user data**  to validate whether FitBit trends hold for Bellabeat's actual female customer base
 - **Demographic data** (age, location, health goals) to refine segmentation beyond activity tier alone
-- **More recent dataset** — 2016 predates major shifts in wearable adoption and post-pandemic health awareness
-- **Heart rate and stress data** — available in the FitBit dataset but not analyzed here; directly relevant to Bellabeat's stress-tracking value proposition
+- **More recent dataset** — 2016 predates major shifts in wearable adoption and post pandemic health awareness
+- **Heart rate and stress data** available in the FitBit dataset but not analyzed here; directly relevant to Bellabeat's stress tracking value proposition
 
 ---
 
