@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This case study was completed as the capstone project for the **Google Data Analytics Professional Certificate**. I take on the role of a junior data analyst on the marketing analytics team at **Bellabeat** — a high-tech manufacturer of health-focused products for women.
+This case study was completed as the capstone project for the **Google Data Analytics Professional Certificate**. I take on the role of a junior data analyst on the marketing analytics team at **Bellabeat**  a high-tech manufacturer of health-focused products for women.
 
 The goal is to analyze how consumers use non Bellabeat smart devices, identify behavioral trends, and translate those findings into actionable marketing recommendations for one of Bellabeat's products.
 
@@ -38,7 +38,7 @@ Analyze FitBit smart device usage data to identify trends in how consumers engag
 ### Key Stakeholders
 - **Urška Sršen** — Cofounder & Chief Creative Officer, requested this analysis
 - **Sando Mur** — Cofounder, key member of the executive team
-- **Bellabeat Marketing Analytics Team** — primary audience for findings
+- **Bellabeat Marketing Analytics Team**  primary audience for findings
 
 ### Product Focus
 This analysis focuses on the **Bellabeat Leaf** — the classic wellness tracker worn as a bracelet, necklace, or clip — which tracks activity, sleep, and stress via the Bellabeat app. The Leaf is the product most directly informed by the behavioral patterns found in this dataset.
@@ -82,7 +82,7 @@ The dataset includes minute level and daily level records for:
 ## Process
 
 ### Tool Used
-**Microsoft Excel** — chosen for its accessibility, built in pivot table and charting capabilities, and suitability for this dataset size (33 users, ~1 month of data).
+**Microsoft Excel**  chosen for its accessibility, built in pivot table and charting capabilities, and suitability for this dataset size (33 users, ~1 month of data).
 
 ### Cleaning Steps Performed
 
@@ -155,7 +155,7 @@ When user sessions are categorized by daily physical engagement level:
 | Moderate | 133 |
 | Low | 136 |
 
-The near-equal three-way split is a critical segmentation insight. Bellabeat cannot treat its users as a single group — a one-size-fits-all message or product experience will miss at least two-thirds of its audience. Each tier has different needs, motivations, and entry points.
+The near-equal three-way split is a critical segmentation insight. Bellabeat cannot treat its users as a single group  a one size fits all message or product experience will miss at least two thirds of its audience. Each tier has different needs, motivations, and entry points.
 
 ---
 
@@ -203,7 +203,7 @@ The upward trend in steps, with weekend dips, tells a clear behavioral story: us
 
 ![Steps vs Sleep](Daily_Steps_vs_Sleep_Duration_Analysis.png)
 
-The scatter plot shows a weak negative correlation between steps and sleep hours. The most important takeaway is not the correlation itself, but how much sleep data is simply absent — indicating this feature is significantly underutilized.
+The scatter plot shows a weak negative correlation between steps and sleep hours. The most important takeaway is not the correlation itself, but how much sleep data is simply absent  indicating this feature is significantly underutilized.
 
 ---
 
@@ -226,7 +226,7 @@ This directly addresses the most significant behavioral gap in the data, with ze
 
 The near-equal split across Low, Moderate, and Active users means Bellabeat needs **segmented messaging**, not a single campaign:
 
-- **Low activity users:** Remove performance pressure. Lead with accessibility and small wins — *"Start somewhere. The Leaf starts with you."*
+- **Low activity users:** Remove performance pressure. Lead with accessibility and small wins  *"Start somewhere. The Leaf starts with you."*
 - **Moderate users:** Emphasize consistency and progress  *"You're building a habit. Keep going."*
 - **Active users:** Lead with data depth and achievement tracking — *"You know what you're doing. Now track every detail of it."*
 
@@ -257,14 +257,14 @@ Users who engage with sleep tracking tend to develop deeper platform engagement 
 
 The 31-day upward trend in average steps is a ready-made acquisition narrative: **wearing the Leaf makes you more active.** Bellabeat can use this as proof in campaigns — showing prospective users what a 30-day journey looks like  and as a retention tool by surfacing personal progress milestones inside the app.
 
-*"See what 30 days with the Leaf did for users like you."* This is not a claim — it is what the data shows.
+*"See what 30 days with the Leaf did for users like you."* This is not a claim  it is what the data shows.
 
 ---
 
 ### Additional Data That Would Strengthen This Analysis
 
 - **Bellabeat's own user data** — to validate whether FitBit trends hold for Bellabeat's actual female customer base
-- **Demographic data** (age, location, health goals) — to refine segmentation beyond activity tier alone
+- **Demographic data** (age, location, health goals) to refine segmentation beyond activity tier alone
 - **More recent dataset** — 2016 predates major shifts in wearable adoption and post-pandemic health awareness
 - **Heart rate and stress data** — available in the FitBit dataset but not analyzed here; directly relevant to Bellabeat's stress-tracking value proposition
 
