@@ -64,7 +64,7 @@ The dataset includes minute level and daily level records for:
 
 | Criteria | Assessment |
 |---|---|
-| **Reliable** | ⚠️ Low — only 33 users; small sample size |
+| **Reliable** | ⚠️ Low  only 33 users; small sample size |
 | **Original** | ⚠️ Third party data collected via Amazon Mechanical Turk |
 | **Comprehensive** | ⚠️ No demographic data (age, gender, health conditions) |
 | **Current** | ❌ 2016 data  nearly a decade old |
@@ -74,7 +74,7 @@ The dataset includes minute level and daily level records for:
 - Sample size of 33 is too small to draw population level conclusions
 - No demographic information  Bellabeat targets women, but participant gender is unconfirmed
 - Days with 0 steps likely represent device non use, not actual inactivity  inflating sedentary metrics
-- Sleep data is incomplete — many users did not consistently wear the device at night
+- Sleep data is incomplete  many users did not consistently wear the device at night
 - 2016 data may not reflect current smart device usage behaviors
 
 ---
@@ -109,8 +109,8 @@ The dataset includes minute level and daily level records for:
 - `Activity Category` = User sessions classified as Low / Moderate / Active based on daily step count
 
 **6. Pivot Tables Created**
-- `Pivot_Daily_Averages` — average steps per day across all users over the 31-day period
-- `Pivot_Sleep_Summary` — sleep hours per user per date for correlation analysis
+- `Pivot_Daily_Averages`  average steps per day across all users over the 31-day period
+- `Pivot_Sleep_Summary`  sleep hours per user per date for correlation analysis
 
 ---
 
@@ -131,13 +131,13 @@ The dataset includes minute level and daily level records for:
 
 ### Finding 1 — Users Are Sedentary for 80% of Their Day
 
-The most striking finding in the data: users spend an average of **942 minutes per day — roughly 15.7 hours — in a sedentary state.** That is 80% of their tracked day with no meaningful physical movement.
+The most striking finding in the data: users spend an average of **942 minutes per day — roughly 15.7 hours in a sedentary state.** That is 80% of their tracked day with no meaningful physical movement.
 
-Only 20% of the day is spent in any form of active minutes. This is not driven by a few extreme outliers — the pattern is consistent across the dataset. Users are wearing a fitness tracker while remaining largely inactive, which represents both a health gap and a product opportunity.
+Only 20% of the day is spent in any form of active minutes. This is not driven by a few extreme outliers  the pattern is consistent across the dataset. Users are wearing a fitness tracker while remaining largely inactive, which represents both a health gap and a product opportunity.
 
 ---
 
-### Finding 2 — Average Daily Steps Fall Short of the 10,000-Step Benchmark
+### Finding 2 — Average Daily Steps Fall Short of the 10,000 Step Benchmark
 
 The dataset average of **7,555 steps/day falls approximately 25% below** the 10,000-step daily goal that most fitness devices and health guidelines reference. While 10,000 steps is not a strict medical standard, it is the benchmark the target user base recognizes and compares themselves to.
 
@@ -155,7 +155,7 @@ When user sessions are categorized by daily physical engagement level:
 | Moderate | 133 |
 | Low | 136 |
 
-The near-equal three-way split is a critical segmentation insight. Bellabeat cannot treat its users as a single group  a one size fits all message or product experience will miss at least two thirds of its audience. Each tier has different needs, motivations, and entry points.
+The near-equal three way split is a critical segmentation insight. Bellabeat cannot treat its users as a single group  a one size fits all message or product experience will miss at least two thirds of its audience. Each tier has different needs, motivations, and entry points.
 
 ---
 
@@ -255,7 +255,7 @@ Users who engage with sleep tracking tend to develop deeper platform engagement 
 
 **Recommendation 5: Use Habit Formation as a Marketing Story**
 
-The 31-day upward trend in average steps is a ready-made acquisition narrative: **wearing the Leaf makes you more active.** Bellabeat can use this as proof in campaigns — showing prospective users what a 30-day journey looks like  and as a retention tool by surfacing personal progress milestones inside the app.
+The 31-day upward trend in average steps is a ready-made acquisition narrative: **wearing the Leaf makes you more active.** Bellabeat can use this as proof in campaigns  showing prospective users what a 30-day journey looks like  and as a retention tool by surfacing personal progress milestones inside the app.
 
 *"See what 30 days with the Leaf did for users like you."* This is not a claim  it is what the data shows.
 
