@@ -270,15 +270,6 @@ The 31 day upward trend in average steps is a ready-made acquisition narrative: 
 
 ---
 
-## File Structure
-
-```
-├── Bellabeat_Case_Study_Analysis.xlsx         # Full workbook: raw data, cleaning, pivots, analysis
-├── dashboard.png                              # Final Excel dashboard
-├── User_Activity_Trends.png                   # Average daily steps over time (March–April 2016)
-├── Daily_Steps_vs_Sleep_Duration_Analysis.png # Scatter plot: daily steps vs. sleep hours
-└── README.md                                  # This document
-```
 
 ---
 
